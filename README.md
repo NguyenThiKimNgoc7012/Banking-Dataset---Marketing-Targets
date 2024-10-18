@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Banking Dataset - Marketing Targets  template
 
 A simple Streamlit app template for you to modify!
 
